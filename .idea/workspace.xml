@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/implementation/ex4-1_상하좌우.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/implementation/ex4-2_시각.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/implementation/q2_왕실의 나이트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/implementation/q3_게임 개발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +196,7 @@
       <workItem from="1666356431736" duration="3546000" />
       <workItem from="1666411790159" duration="3716000" />
       <workItem from="1666582521855" duration="3828000" />
-      <workItem from="1666590823476" duration="9914000" />
+      <workItem from="1666590823476" duration="9957000" />
     </task>
     <servers />
   </component>
