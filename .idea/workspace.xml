@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/greedy/1이 될때까지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/greedy/1이 될때까지2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/greedy/ex3-3 숫자 카드 게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/greedy/q1 모험가 길드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이것이 코딩테스트다/greedy/ex3-2 큰 수의 법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이 코딩테스트다/greedy/ex3-2 큰 수의 법칙.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +214,7 @@
       <workItem from="1663072136980" duration="4194000" />
       <workItem from="1664112506851" duration="2252000" />
       <workItem from="1666255657772" duration="448000" />
-      <workItem from="1666256121151" duration="4259000" />
+      <workItem from="1666256121151" duration="4281000" />
     </task>
     <servers />
   </component>
