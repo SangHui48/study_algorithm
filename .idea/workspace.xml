@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs/5-4_재귀 함수 종료 조건 예제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs/5-8_dfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs/5-9_bfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +206,7 @@
       <workItem from="1667215910090" duration="4157000" />
       <workItem from="1667233496376" duration="73000" />
       <workItem from="1667364220834" duration="7279000" />
-      <workItem from="1667463124157" duration="4824000" />
+      <workItem from="1667463124157" duration="4825000" />
     </task>
     <servers />
   </component>
