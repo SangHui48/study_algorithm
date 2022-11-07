@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs/q21_인구이동.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,7 +210,7 @@
       <workItem from="1667491554618" duration="35000" />
       <workItem from="1667575126258" duration="3534000" />
       <workItem from="1667618050175" duration="5328000" />
-      <workItem from="1667793917943" duration="7018000" />
+      <workItem from="1667793917943" duration="7832000" />
     </task>
     <servers />
   </component>
@@ -291,6 +288,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$____04___py_.coverage" NAME="[기초-출력] 출력하기04(설명)(py) Coverage Results" MODIFIED="1661614474581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$______py_.coverage" NAME="바둑판에 흰 돌 놓기(설명)(py) Coverage Results" MODIFIED="1662474345978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____1_______py_.coverage" NAME="[기초-값변환] 실수 1개 입력받아 소숫점이하 자리 변환하기(설명)(py) Coverage Results" MODIFIED="1661783270222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
+    <SUITE FILE_PATH="coverage/study_algorithm$q21_.coverage" NAME="q21_인구이동 Coverage Results" MODIFIED="1667802271641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
     <SUITE FILE_PATH="coverage/study_algorithm$__________py_.coverage" NAME="[기초-리스트] 바둑판에 흰 돌 놓기(설명)(py) Coverage Results" MODIFIED="1663074840258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/좆진호" />
     <SUITE FILE_PATH="coverage/study_algorithm$q12___.coverage" NAME="q12_기둥과 보 설치 Coverage Results" MODIFIED="1667376230656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/implementation" />
     <SUITE FILE_PATH="coverage/study_algorithm$Camouflage.coverage" NAME="Camouflage Coverage Results" MODIFIED="1661353069492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/coding_test_kit/hash" />
