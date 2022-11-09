@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs/q22_블록 이동하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,6 +214,7 @@
       <workItem from="1667575126258" duration="3534000" />
       <workItem from="1667618050175" duration="5328000" />
       <workItem from="1667793917943" duration="7832000" />
+      <workItem from="1667971206090" duration="2331000" />
     </task>
     <servers />
   </component>
