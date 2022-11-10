@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_삽입정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_선택정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_퀵정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/2_위에서 아래로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/3_성적이 낮은 순서로 학생 출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_계수 정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_퀵정렬2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/두 배열의 원소 교체.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_퀵정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_퀵정렬.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +55,8 @@
       <recent name="C:\Users\sanghui\Desktop\toyproject\study_algorithm\코드업" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_삽입정렬">
-    <configuration name="ex_선택정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.두 배열의 원소 교체">
+    <configuration name="두 배열의 원소 교체" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +69,95 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_선택정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting/두 배열의 원소 교체.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_위에서 아래로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting/2_위에서 아래로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_성적이 낮은 순서로 학생 출력하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting/3_성적이 낮은 순서로 학생 출력하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex_계수 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_계수 정렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex_퀵정렬2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/sorting/ex_퀵정렬2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,79 +188,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q20_감시 피하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs/q20_감시 피하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="q21_인구이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs/q21_인구이동.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="q22_블록 이동하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs/q22_블록 이동하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex_삽입정렬" />
-        <item itemvalue="Python.ex_선택정렬" />
-        <item itemvalue="Python.q22_블록 이동하기" />
-        <item itemvalue="Python.q21_인구이동" />
-        <item itemvalue="Python.q20_감시 피하기" />
+        <item itemvalue="Python.두 배열의 원소 교체" />
+        <item itemvalue="Python.3_성적이 낮은 순서로 학생 출력하기" />
+        <item itemvalue="Python.2_위에서 아래로" />
+        <item itemvalue="Python.ex_계수 정렬" />
+        <item itemvalue="Python.ex_퀵정렬2" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +242,8 @@
       <workItem from="1667618050175" duration="5328000" />
       <workItem from="1667793917943" duration="7832000" />
       <workItem from="1667971206090" duration="2331000" />
-      <workItem from="1668008738461" duration="4711000" />
+      <workItem from="1668008738461" duration="5033000" />
+      <workItem from="1668051232677" duration="4663000" />
     </task>
     <servers />
   </component>
@@ -268,10 +294,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/study_algorithm$_____2__4___py_.coverage" NAME="[기초-비교연산] 정수 2개 입력받아 비교하기4(설명)(py) Coverage Results" MODIFIED="1661913083615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
+    <SUITE FILE_PATH="coverage/study_algorithm$3_____.coverage" NAME="3_성적이 낮은 순서로 학생 출력하기 Coverage Results" MODIFIED="1668055538923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
     <SUITE FILE_PATH="coverage/study_algorithm$q6___.coverage" NAME="q6 무지의 먹방 라이브 Coverage Results" MODIFIED="1666591881952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/greedy" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____2___2___py_.coverage" NAME="[기초-입출력] 정수 2개 입력받아 그대로 출력하기2(설명)(py) Coverage Results" MODIFIED="1661615653649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$__py_.coverage" NAME="성실한 개미(py) Coverage Results" MODIFIED="1662479063490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____XOR_____py_.coverage" NAME="[기초-비트단위논리연산] 비트단위로 XOR 하여 출력하기(설명)(py) Coverage Results" MODIFIED="1662136235543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
+    <SUITE FILE_PATH="coverage/study_algorithm$ex__.coverage" NAME="ex_계수 정렬 Coverage Results" MODIFIED="1668053768149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
     <SUITE FILE_PATH="coverage/study_algorithm$____________py_.coverage" NAME="[기초-논리연산] 둘 다 참일 경우만 참 출력하기(설명)(py) Coverage Results" MODIFIED="1661913319559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$q14__.coverage" NAME="q14_외벽 점검 Coverage Results" MODIFIED="1667465618921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/implementation" />
     <SUITE FILE_PATH="coverage/study_algorithm$___3_py_.coverage" NAME="이상한 출석 번호 부르기3(py) Coverage Results" MODIFIED="1662473901244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
@@ -323,7 +351,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$q19___.coverage" NAME="q19_연산자 끼워 넣기 Coverage Results" MODIFIED="1667797474514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____py_.coverage" NAME="짝수 합 구하기(설명)(py) Coverage Results" MODIFIED="1662392876564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_1______py_.coverage" NAME="문자 1개 입력받아 알파벳 출력하기(설명)(py) Coverage Results" MODIFIED="1662392569441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
-    <SUITE FILE_PATH="coverage/study_algorithm$ex_.coverage" NAME="ex_삽입정렬 Coverage Results" MODIFIED="1668011629905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
+    <SUITE FILE_PATH="coverage/study_algorithm$ex_.coverage" NAME="ex_퀵정렬 Coverage Results" MODIFIED="1668052183972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____1______py_.coverage" NAME="[기초-산술연산] 정수 1개 입력받아 부호 바꾸기(설명)(py) Coverage Results" MODIFIED="1661782560353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$q1__.coverage" NAME="q1 모험가 길드 Coverage Results" MODIFIED="1666260730208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/greedy" />
     <SUITE FILE_PATH="coverage/study_algorithm$___py_.coverage" NAME="바둑알 십자 뒤집기(py) Coverage Results" MODIFIED="1662475019089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
@@ -334,6 +362,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$q2__.coverage" NAME="q2_큰수의 법칙 Coverage Results" MODIFIED="1667115928863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/좆진호" />
     <SUITE FILE_PATH="coverage/study_algorithm$_2____py_.coverage" NAME="주사위 2개 던지기(설명)(py) Coverage Results" MODIFIED="1662393287400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____2____py_.coverage" NAME="[기초-산술연산] 정수 2개 입력받아 자동 계산하기(py) Coverage Results" MODIFIED="1661783596138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
+    <SUITE FILE_PATH="coverage/study_algorithm$ex_2.coverage" NAME="ex_퀵정렬2 Coverage Results" MODIFIED="1668052693717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
     <SUITE FILE_PATH="coverage/study_algorithm$ex3_1_.coverage" NAME="ex3-1 거스름돈 Coverage Results" MODIFIED="1666256047496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/greedy" />
     <SUITE FILE_PATH="coverage/study_algorithm$ex4_1_.coverage" NAME="ex4-1_상하좌우 Coverage Results" MODIFIED="1666596024915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/implementation" />
     <SUITE FILE_PATH="coverage/study_algorithm$___________py_.coverage" NAME="[기초-논리연산] 정수 입력받아 참 거짓 평가하기(설명)(py) Coverage Results" MODIFIED="1661913145096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
@@ -373,8 +402,10 @@
     <SUITE FILE_PATH="coverage/study_algorithm$____07_py_.coverage" NAME="[기초-출력] 출력하기07(py) Coverage Results" MODIFIED="1661614816006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$q16_.coverage" NAME="q16_연구소 Coverage Results" MODIFIED="1667620891398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
     <SUITE FILE_PATH="coverage/study_algorithm$_1___2_py_.coverage" NAME="정수 1개 입력받아 카운트다운 출력하기2(py) Coverage Results" MODIFIED="1662391550186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
+    <SUITE FILE_PATH="coverage/study_algorithm$2__.coverage" NAME="2_위에서 아래로 Coverage Results" MODIFIED="1668054673048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
     <SUITE FILE_PATH="coverage/study_algorithm$q9__.coverage" NAME="q9_문자열 압축 Coverage Results" MODIFIED="1667123136011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/implementation" />
     <SUITE FILE_PATH="coverage/study_algorithm$q4_1_.coverage" NAME="q4-1 상하좌우 Coverage Results" MODIFIED="1667123680591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/좆진호" />
+    <SUITE FILE_PATH="coverage/study_algorithm$___.coverage" NAME="두 배열의 원소 교체 Coverage Results" MODIFIED="1668056018055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
     <SUITE FILE_PATH="coverage/study_algorithm$q13_.coverage" NAME="q13_치킨배달 Coverage Results" MODIFIED="1667464435765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/implementation" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____AND_____py_.coverage" NAME="[기초-비트단위논리연산] 비트단위로 AND 하여 출력하기(설명)(py) Coverage Results" MODIFIED="1662136123466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____2______py_.coverage" NAME="[기초-산술연산] 정수 2개 입력받아 거듭제곱 계산하기(설명)(py) Coverage Results" MODIFIED="1661782930425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
