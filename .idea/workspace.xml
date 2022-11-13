@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/006_연속된 자연수의 합 구하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/007_주몽의 명령.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/008_좋은 수 구하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
       <recent name="C:\Users\sanghui\Desktop\toyproject\study_algorithm\코드업" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.006_연속된 자연수의 합 구하기">
+  <component name="RunManager" selected="Python.008_좋은 수 구하기">
     <configuration name="005_나머지 합 구하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex7-2_재귀함수로 이진 탐색 코드 구현하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="007_주몽의 명령" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,12 +104,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/binary_search" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/binary_search/ex7-2_재귀함수로 이진 탐색 코드 구현하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/007_주몽의 명령.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q2_부품 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="008_좋은 수 구하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/binary_search" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/binary_search/q2_부품 찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/008_좋은 수 구하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.008_좋은 수 구하기" />
+        <item itemvalue="Python.007_주몽의 명령" />
         <item itemvalue="Python.006_연속된 자연수의 합 구하기" />
         <item itemvalue="Python.005_나머지 합 구하기" />
         <item itemvalue="Python.q3_떡볶이 떡 만들기" />
-        <item itemvalue="Python.q2_부품 찾기" />
-        <item itemvalue="Python.ex7-2_재귀함수로 이진 탐색 코드 구현하기" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +221,7 @@
       <workItem from="1668175000703" duration="6353000" />
       <workItem from="1668183214434" duration="751000" />
       <workItem from="1668219340484" duration="2337000" />
-      <workItem from="1668333818310" duration="2384000" />
+      <workItem from="1668333818310" duration="3908000" />
     </task>
     <servers />
   </component>
@@ -332,6 +333,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$ex_.coverage" NAME="ex_퀵정렬 Coverage Results" MODIFIED="1668052183972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____1______py_.coverage" NAME="[기초-산술연산] 정수 1개 입력받아 부호 바꾸기(설명)(py) Coverage Results" MODIFIED="1661782560353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$q1__.coverage" NAME="q1 모험가 길드 Coverage Results" MODIFIED="1666260730208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/greedy" />
+    <SUITE FILE_PATH="coverage/study_algorithm$007__.coverage" NAME="007_주몽의 명령 Coverage Results" MODIFIED="1668339473767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
     <SUITE FILE_PATH="coverage/study_algorithm$___py_.coverage" NAME="바둑알 십자 뒤집기(py) Coverage Results" MODIFIED="1662475019089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$____08_py_.coverage" NAME="[기초-출력] 출력하기08(py) Coverage Results" MODIFIED="1661614880303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____2____2___py_.coverage" NAME="[기초-입출력] 문자 2개 입력받아 순서 바꿔 출력하기2(설명)(py) Coverage Results" MODIFIED="1661615771127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
@@ -385,6 +387,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$phone_number_book.coverage" NAME="phone_number_book Coverage Results" MODIFIED="1656922800948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/coding_test_kit/hash" />
     <SUITE FILE_PATH="coverage/study_algorithm$003___1.coverage" NAME="003_구간 합 구하기1 Coverage Results" MODIFIED="1668177630085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
     <SUITE FILE_PATH="coverage/study_algorithm$q8__.coverage" NAME="q8 문자열 재정렬 Coverage Results" MODIFIED="1667118295584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/implementation" />
+    <SUITE FILE_PATH="coverage/study_algorithm$008___.coverage" NAME="008_좋은 수 구하기 Coverage Results" MODIFIED="1668340013659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
     <SUITE FILE_PATH="coverage/study_algorithm$_________py_.coverage" NAME="[기초-논리연산] 참 거짓 바꾸기(설명)(py) Coverage Results" MODIFIED="1661913240072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$____07_py_.coverage" NAME="[기초-출력] 출력하기07(py) Coverage Results" MODIFIED="1661614816006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$000__.coverage" NAME="000_수 정렬하기 Coverage Results" MODIFIED="1668175326020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트" />
