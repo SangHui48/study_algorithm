@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/binary_search/q29_공유기 설치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/binary_search/q30_가사 검색.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이것이 코딩테스트다/binary_search/q28_고정점 찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이 코딩테스트다/binary_search/q28_고정점 찾기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +220,8 @@
       <workItem from="1668175000703" duration="6353000" />
       <workItem from="1668183214434" duration="751000" />
       <workItem from="1668219340484" duration="2337000" />
-      <workItem from="1668333818310" duration="9530000" />
+      <workItem from="1668333818310" duration="9924000" />
+      <workItem from="1668392845488" duration="1390000" />
     </task>
     <servers />
   </component>
@@ -377,6 +377,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$_1____2___py_.coverage" NAME="정수 1개 입력받아 그 수까지 출력하기2(설명)(py) Coverage Results" MODIFIED="1662392797754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$____2_______py_.coverage" NAME="[기초-비트시프트연산] 2의 거듭제곱 배로 곱해 출력하기(설명)(py) Coverage Results" MODIFIED="1661912390259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$0_______py_.coverage" NAME="0 입력될 때까지 무한 출력하기(설명)(py) Coverage Results" MODIFIED="1662390257575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
+    <SUITE FILE_PATH="coverage/study_algorithm$q29__.coverage" NAME="q29_공유기 설치 Coverage Results" MODIFIED="1668350212419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/binary_search" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____3_______py_.coverage" NAME="[기초-산술연산] 정수 3개 입력받아 합과 평균 출력하기(설명)(py) Coverage Results" MODIFIED="1661783707250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$ex3_2___.coverage" NAME="ex3-2 큰 수의 법칙 Coverage Results" MODIFIED="1666257331681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/greedy" />
     <SUITE FILE_PATH="coverage/study_algorithm$ex7_2_____.coverage" NAME="ex7-2_재귀함수로 이진 탐색 코드 구현하기 Coverage Results" MODIFIED="1668180932019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/binary_search" />
