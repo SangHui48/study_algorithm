@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/009_DNA 비밀번호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/009_DNA 비밀번호2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/010_최솟값 찾기1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/010_최솟값 찾기1.py" beforeDir="false" afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/010_최솟값 찾기1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
       <recent name="C:\Users\sanghui\Desktop\toyproject\study_algorithm\코드업" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.009_DNA 비밀번호2">
+  <component name="RunManager" selected="Python.010_최솟값 찾기1">
     <configuration name="009_DNA 비밀번호2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex8-4_피보나치(바텀업)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="010_최솟값 찾기1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,12 +102,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming/ex8-4_피보나치(바텀업).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조/010_최솟값 찾기1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.010_최솟값 찾기1" />
         <item itemvalue="Python.009_DNA 비밀번호2" />
         <item itemvalue="Python.009_DNA 비밀번호" />
         <item itemvalue="Python.q3_개미전사" />
         <item itemvalue="Python.q2_1로 만들기" />
-        <item itemvalue="Python.ex8-4_피보나치(바텀업)" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +221,7 @@
       <workItem from="1668219340484" duration="2337000" />
       <workItem from="1668333818310" duration="9924000" />
       <workItem from="1668392845488" duration="3763000" />
-      <workItem from="1668480889127" duration="6885000" />
+      <workItem from="1668480889127" duration="7701000" />
     </task>
     <servers />
   </component>
