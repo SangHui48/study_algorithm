@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming/q4_바닥공사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming/q5_효율적인 화폐 구성.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming/q4_바닥공사.py" beforeDir="false" afterPath="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming/q4_바닥공사.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="C:\Users\sanghui\Desktop\toyproject\study_algorithm\코드업" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.010_최솟값 찾기1">
+  <component name="RunManager" selected="Python.q5_효율적인 화폐 구성">
     <configuration name="009_DNA 비밀번호2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q2_1로 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="q4_바닥공사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +131,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming/q2_1로 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming/q4_바닥공사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q3_개미전사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="q5_효율적인 화폐 구성" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +153,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming/q3_개미전사.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming/q5_효율적인 화폐 구성.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.q5_효율적인 화폐 구성" />
+        <item itemvalue="Python.q4_바닥공사" />
         <item itemvalue="Python.010_최솟값 찾기1" />
         <item itemvalue="Python.009_DNA 비밀번호2" />
         <item itemvalue="Python.009_DNA 비밀번호" />
-        <item itemvalue="Python.q3_개미전사" />
-        <item itemvalue="Python.q2_1로 만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +224,8 @@
       <workItem from="1668333818310" duration="9924000" />
       <workItem from="1668392845488" duration="3763000" />
       <workItem from="1668480889127" duration="8401000" />
-      <workItem from="1668566341106" duration="332000" />
+      <workItem from="1668566341106" duration="975000" />
+      <workItem from="1668582025711" duration="2464000" />
     </task>
     <servers />
   </component>
@@ -276,6 +278,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$_____2__4___py_.coverage" NAME="[기초-비교연산] 정수 2개 입력받아 비교하기4(설명)(py) Coverage Results" MODIFIED="1661913083615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$3_____.coverage" NAME="3_성적이 낮은 순서로 학생 출력하기 Coverage Results" MODIFIED="1668055538923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
     <SUITE FILE_PATH="coverage/study_algorithm$q6___.coverage" NAME="q6 무지의 먹방 라이브 Coverage Results" MODIFIED="1666591881952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/greedy" />
+    <SUITE FILE_PATH="coverage/study_algorithm$q5___.coverage" NAME="q5_효율적인 화폐 구성 Coverage Results" MODIFIED="1668584621568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____2___2___py_.coverage" NAME="[기초-입출력] 정수 2개 입력받아 그대로 출력하기2(설명)(py) Coverage Results" MODIFIED="1661615653649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$__py_.coverage" NAME="성실한 개미(py) Coverage Results" MODIFIED="1662479063490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____XOR_____py_.coverage" NAME="[기초-비트단위논리연산] 비트단위로 XOR 하여 출력하기(설명)(py) Coverage Results" MODIFIED="1662136235543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
@@ -317,6 +320,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$_____NOT_____py_.coverage" NAME="[기초-비트단위논리연산] 비트단위로 NOT 하여 출력하기(설명)(py) Coverage Results" MODIFIED="1662020897681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____2____1_py_.coverage" NAME="[기초-입출력] 문자 2개 입력받아 순서 바꿔 출력하기1(py) Coverage Results" MODIFIED="1661615511049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$q15____.coverage" NAME="q15_특정 거리의 도시 찾기 Coverage Results" MODIFIED="1667619109233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
+    <SUITE FILE_PATH="coverage/study_algorithm$q4_.coverage" NAME="q4_바닥공사 Coverage Results" MODIFIED="1668583306624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming" />
     <SUITE FILE_PATH="coverage/study_algorithm$q20__.coverage" NAME="q20_감시 피하기 Coverage Results" MODIFIED="1667800166407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
     <SUITE FILE_PATH="coverage/study_algorithm$____10___16_1___py_.coverage" NAME="[기초-출력변환] 10진 정수 입력받아 16진수로 출력하기1(설명)(py) Coverage Results" MODIFIED="1661689813936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$____01___py_.coverage" NAME="[기초-출력] 출력하기01(설명)(py) Coverage Results" MODIFIED="1661614189306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
