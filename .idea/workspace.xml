@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/04_정렬/018_ATM 인출 시간 계산하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -232,7 +234,7 @@
       <workItem from="1668849092942" duration="4339000" />
       <workItem from="1668936243261" duration="598000" />
       <workItem from="1668940483871" duration="3575000" />
-      <workItem from="1669036736379" duration="345000" />
+      <workItem from="1669036736379" duration="601000" />
     </task>
     <servers />
   </component>
@@ -442,7 +444,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$006____.coverage" NAME="006_연속된 자연수의 합 구하기 Coverage Results" MODIFIED="1668335949055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
     <SUITE FILE_PATH="coverage/study_algorithm$_1___1___py_.coverage" NAME="정수 1개 입력받아 카운트다운 출력하기1(설명)(py) Coverage Results" MODIFIED="1662390344094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____2__4___py_.coverage" NAME="[기초-비교연산] 정수 2개 입력받아 비교하기4(설명)(py) Coverage Results" MODIFIED="1661913083615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
-    <SUITE FILE_PATH="coverage/study_algorithm$018_ATM___.coverage" NAME="018_ATM 인출 시간 계산하기 Coverage Results" MODIFIED="1669037080725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/04_정렬" />
+    <SUITE FILE_PATH="coverage/study_algorithm$018_ATM___.coverage" NAME="018_ATM 인출 시간 계산하기 Coverage Results" MODIFIED="1669037249424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/04_정렬" />
     <SUITE FILE_PATH="coverage/study_algorithm$________py_.coverage" NAME="거짓이 서로 같을 때에만 참 출력하기(설명)(py) Coverage Results" MODIFIED="1662020578603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$007__.coverage" NAME="007_주몽의 명령 Coverage Results" MODIFIED="1668339473767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
     <SUITE FILE_PATH="coverage/study_algorithm$____07_py_.coverage" NAME="[기초-출력] 출력하기07(py) Coverage Results" MODIFIED="1661614816006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
