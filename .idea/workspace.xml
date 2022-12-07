@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/06_그리디/036_최솟값을 만드는 괄호 배치 찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/07_정수론/037_소수 구하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +245,7 @@
       <workItem from="1670047820794" duration="2187000" />
       <workItem from="1670307651214" duration="3789000" />
       <workItem from="1670338394943" duration="1892000" />
-      <workItem from="1670424928638" duration="2240000" />
+      <workItem from="1670424928638" duration="3247000" />
     </task>
     <servers />
   </component>
@@ -368,7 +368,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$q4_.coverage" NAME="q4_바닥공사 Coverage Results" MODIFIED="1668583306624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming" />
     <SUITE FILE_PATH="coverage/study_algorithm$q20__.coverage" NAME="q20_감시 피하기 Coverage Results" MODIFIED="1667800166407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
     <SUITE FILE_PATH="coverage/study_algorithm$____10___16_1___py_.coverage" NAME="[기초-출력변환] 10진 정수 입력받아 16진수로 출력하기1(설명)(py) Coverage Results" MODIFIED="1661689813936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
-    <SUITE FILE_PATH="coverage/study_algorithm$036_____.coverage" NAME="036_최솟값을 만드는 괄호 배치 찾기 Coverage Results" MODIFIED="1670427168406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/06_그리디" />
+    <SUITE FILE_PATH="coverage/study_algorithm$036_____.coverage" NAME="036_최솟값을 만드는 괄호 배치 찾기 Coverage Results" MODIFIED="1670427185160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/06_그리디" />
     <SUITE FILE_PATH="coverage/study_algorithm$____01___py_.coverage" NAME="[기초-출력] 출력하기01(설명)(py) Coverage Results" MODIFIED="1661614189306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$q11_.coverage" NAME="q11_뱀 Coverage Results" MODIFIED="1667368051499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/implementation" />
     <SUITE FILE_PATH="coverage/study_algorithm$3_6_9______py_.coverage" NAME="3 6 9 게임의 왕이 되자(설명)(py) Coverage Results" MODIFIED="1662464091912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
