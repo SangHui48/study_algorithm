@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/스터디/bj_11660.py" beforeDir="false" afterPath="$PROJECT_DIR$/스터디/bj_11660.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/07_정수론/040_제곱이 아닌 수 찾기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,6 +247,7 @@
       <workItem from="1670424928638" duration="3265000" />
       <workItem from="1670510011417" duration="2894000" />
       <workItem from="1670601137909" duration="620000" />
+      <workItem from="1670741266276" duration="362000" />
     </task>
     <servers />
   </component>
