@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/그래프/054_게임 개발하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +258,7 @@
       <workItem from="1671691962613" duration="5939000" />
       <workItem from="1671883884612" duration="888000" />
       <workItem from="1671975336209" duration="3770000" />
-      <workItem from="1672114197126" duration="4857000" />
+      <workItem from="1672114197126" duration="5093000" />
     </task>
     <servers />
   </component>
