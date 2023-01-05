@@ -35,4 +35,4 @@ def bfs(i, j):
     while queue:
         x, y = queue.popleft()
         for i in range(4):
-            nx = 
+            nx =
