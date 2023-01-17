@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/08_그래프/065_다리 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/08_그래프/065_다리 만들기.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -265,6 +268,7 @@
       <workItem from="1672711549942" duration="1039000" />
       <workItem from="1672712609775" duration="2509000" />
       <workItem from="1672899142082" duration="2749000" />
+      <workItem from="1673936160375" duration="2478000" />
     </task>
     <servers />
   </component>
@@ -448,7 +452,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$047__.coverage" NAME="047_효율적으로 해킹하기 Coverage Results" MODIFIED="1671693346585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/그래프" />
     <SUITE FILE_PATH="coverage/study_algorithm$_1___1___py_.coverage" NAME="정수 1개 입력받아 카운트다운 출력하기1(설명)(py) Coverage Results" MODIFIED="1662390344094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____2__4___py_.coverage" NAME="[기초-비교연산] 정수 2개 입력받아 비교하기4(설명)(py) Coverage Results" MODIFIED="1661913083615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
-    <SUITE FILE_PATH="coverage/study_algorithm$065__.coverage" NAME="065_다리 만들기 Coverage Results" MODIFIED="1672900242973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/08_그래프" />
+    <SUITE FILE_PATH="coverage/study_algorithm$065__.coverage" NAME="065_다리 만들기 Coverage Results" MODIFIED="1673938652413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/08_그래프" />
     <SUITE FILE_PATH="coverage/study_algorithm$042___.coverage" NAME="042_최소 공배수 구하기 Coverage Results" MODIFIED="1671070291923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/07_정수론" />
     <SUITE FILE_PATH="coverage/study_algorithm$027__.coverage" NAME="027_미로 탐색하기 Coverage Results" MODIFIED="1669351965484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/05_탐색" />
     <SUITE FILE_PATH="coverage/study_algorithm$________py_.coverage" NAME="거짓이 서로 같을 때에만 참 출력하기(설명)(py) Coverage Results" MODIFIED="1662020578603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
