@@ -13,6 +13,7 @@ for _ in range(n-1):
 depth = [0] * (n + 1)
 parent = [0] * (n + 1)
 visited = [False] * (n + 1)
+result = {}
 
 def bfs(node):
     q = deque()
@@ -41,12 +42,16 @@ def lca(a, b):
     if depth[a] < depth[b]:
         a, b = b, a
 
+    if (a, b) in result:
+        return result[(a, b)]
+    x, y = a, b
+
     while depth[a] != depth[b]:
         a = parent[a]
     while a != b:
         a = parent[a]
         b = parent[b]
-
+    result[(x, y)] = a
     return a
 
 m = int(input())
