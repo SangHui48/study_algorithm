@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/09_트리/075_최소 공통 조상 구하기2.py" beforeDir="false" afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/09_트리/075_최소 공통 조상 구하기2.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -273,7 +270,7 @@
       <workItem from="1674113590282" duration="3736000" />
       <workItem from="1674195791018" duration="2599000" />
       <workItem from="1674275815558" duration="3256000" />
-      <workItem from="1674539111449" duration="7404000" />
+      <workItem from="1674539111449" duration="7420000" />
     </task>
     <servers />
   </component>
