@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합/076_이항계수 구하기1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합/077_이항계수 구하기2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합/078_부녀회장이 될 테야.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,29 +53,7 @@
       <recent name="C:\Users\sanghui\Desktop\toyproject\study_algorithm\코드업" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.076_이항계수 구하기1">
-    <configuration name="073_구간 곱 구하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/09_트리" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/09_트리/073_구간 곱 구하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.078_부녀회장이 될 테야">
     <configuration name="074_최소 공통 조상 구하기1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,28 +68,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/09_트리/074_최소 공통 조상 구하기1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="074_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/09_트리" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/09_트리/074_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,13 +120,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="077_이항계수 구하기2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합/077_이항계수 구하기2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="078_부녀회장이 될 테야" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합/078_부녀회장이 될 테야.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.078_부녀회장이 될 테야" />
+        <item itemvalue="Python.077_이항계수 구하기2" />
         <item itemvalue="Python.076_이항계수 구하기1" />
         <item itemvalue="Python.075_최소 공통 조상 구하기2" />
         <item itemvalue="Python.074_최소 공통 조상 구하기1" />
-        <item itemvalue="Python.074_2" />
-        <item itemvalue="Python.073_구간 곱 구하기" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +277,7 @@
       <workItem from="1674539111449" duration="7420000" />
       <workItem from="1675487726945" duration="608000" />
       <workItem from="1675495784210" duration="364000" />
-      <workItem from="1675496161856" duration="304000" />
+      <workItem from="1675496161856" duration="1360000" />
     </task>
     <servers />
   </component>
@@ -390,6 +389,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/study_algorithm$041____.coverage" NAME="041_오일러 피 함수 구현하기 Coverage Results" MODIFIED="1671069852210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/07_정수론" />
     <SUITE FILE_PATH="coverage/study_algorithm$____05___py_.coverage" NAME="[기초-출력] 출력하기05(설명)(py) Coverage Results" MODIFIED="1661614479651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
+    <SUITE FILE_PATH="coverage/study_algorithm$077__2.coverage" NAME="077_이항계수 구하기2 Coverage Results" MODIFIED="1675497204020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합" />
     <SUITE FILE_PATH="coverage/study_algorithm$057___.coverage" NAME="057_최소 비용 구하기 Coverage Results" MODIFIED="1672296734333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/그래프" />
     <SUITE FILE_PATH="coverage/study_algorithm$056___.coverage" NAME="056_최단 경로 구하기 Coverage Results" MODIFIED="1672296099191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/그래프" />
     <SUITE FILE_PATH="coverage/study_algorithm$055___.coverage" NAME="055_임계 경로 구하기 Coverage Results" MODIFIED="1672294664628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/그래프" />
@@ -510,6 +510,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$034____.coverage" NAME="034_수를 묶어서 최댓값 만들기 Coverage Results" MODIFIED="1670425883869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/06_그리디" />
     <SUITE FILE_PATH="coverage/study_algorithm$3_____py_.coverage" NAME="3의 배수는 통과(설명)(py) Coverage Results" MODIFIED="1662465953495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$012_.coverage" NAME="012_오큰수 Coverage Results" MODIFIED="1668664041960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
+    <SUITE FILE_PATH="coverage/study_algorithm$076__1.coverage" NAME="076_이항계수 구하기1 Coverage Results" MODIFIED="1675496636602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합" />
     <SUITE FILE_PATH="coverage/study_algorithm$061_____.coverage" NAME="061_가장 빠른 버스 노선 구하기 Coverage Results" MODIFIED="1672712466911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/그래프" />
     <SUITE FILE_PATH="coverage/study_algorithm$ex3_2___.coverage" NAME="ex3-2 큰 수의 법칙 Coverage Results" MODIFIED="1666257331681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/greedy" />
     <SUITE FILE_PATH="coverage/study_algorithm$______py_.coverage" NAME="바둑판에 흰 돌 놓기(설명)(py) Coverage Results" MODIFIED="1662474345978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
