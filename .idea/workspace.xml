@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합/081_순열의 순서 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합/081_순열의 순서 구하기.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -277,7 +280,7 @@
       <workItem from="1675594240039" duration="3730000" />
       <workItem from="1675677188549" duration="5309000" />
       <workItem from="1675708789673" duration="28000" />
-      <workItem from="1675929086350" duration="6622000" />
+      <workItem from="1675929086350" duration="7291000" />
     </task>
     <servers />
   </component>
