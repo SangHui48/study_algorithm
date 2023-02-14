@@ -1,6 +1,7 @@
 # https://www.acmicpc.net/problem/1256
 # https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=junhyuk7272&logNo=222053814549
 # https://bhsmath.tistory.com/153
+# https://yiyj1030.tistory.com/520
 n, m, k = map(int, input().split())
 dp = [[0 for _ in range(n + m + 1)] for _ in range(n + m + 1)]
 
