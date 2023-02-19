@@ -3,7 +3,6 @@ import heapq
 def convert_minute(start, end):
     start = int(start[:2]) * 60 + int(start[-2:])
     end = int(end[:2]) * 60 + int(end[-2:])
-
     return (start, end)
 def solution(book_time):
     answer = 1
@@ -13,7 +12,7 @@ def solution(book_time):
     heap = []
     for s, e, in book_time:
         if not heap:
-            heapq.heappush(heap, e)
+            heapq.heappush(heap, e + 10)
             continue
         if heap[0] <= s:
             heapq.heappop(heap)
