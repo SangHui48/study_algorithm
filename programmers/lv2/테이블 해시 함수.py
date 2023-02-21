@@ -1,3 +1,4 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/147354
 def solution(data, col, row_begin, row_end):
     data.sort(key=lambda x: (x[col-1], -x[0]))
     mod_sum = []

@@ -1,3 +1,4 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/142085
 import heapq
 def solution(n, k, enemy):
     heap = []
