@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/lv3/부대복귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/lv3/부대복귀.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -420,7 +417,7 @@
       <workItem from="1676715744121" duration="97000" />
       <workItem from="1676920717575" duration="5384000" />
       <workItem from="1677006734332" duration="6386000" />
-      <workItem from="1677087820399" duration="9417000" />
+      <workItem from="1677087820399" duration="9894000" />
     </task>
     <servers />
   </component>
@@ -637,7 +634,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$q5___.coverage" NAME="q5_효율적인 화폐 구성 Coverage Results" MODIFIED="1668584621568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming" />
     <SUITE FILE_PATH="coverage/study_algorithm$080__.coverage" NAME="080_조약돌 꺼내기 Coverage Results" MODIFIED="1675932087795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합" />
     <SUITE FILE_PATH="coverage/study_algorithm$073___.coverage" NAME="073_구간 곱 구하기 Coverage Results" MODIFIED="1674279819164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/09_트리" />
-    <SUITE FILE_PATH="coverage/study_algorithm$.coverage" NAME="부대복귀 Coverage Results" MODIFIED="1677101469026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv3" />
+    <SUITE FILE_PATH="coverage/study_algorithm$.coverage" NAME="부대복귀 Coverage Results" MODIFIED="1677101571858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv3" />
     <SUITE FILE_PATH="coverage/study_algorithm$000__.coverage" NAME="000_수 정렬하기 Coverage Results" MODIFIED="1668175326020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트" />
     <SUITE FILE_PATH="coverage/study_algorithm$q34__.coverage" NAME="q34_병사 배치하기 Coverage Results" MODIFIED="1668660891129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming" />
     <SUITE FILE_PATH="coverage/study_algorithm$_1_____py_.coverage" NAME="정수 1개 입력받아 분류하기(설명)(py) Coverage Results" MODIFIED="1662389588206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
