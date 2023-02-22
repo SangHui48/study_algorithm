@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/lv2/숫자 카드 나누기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/lv2/우박 수열 정적분.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -420,7 +420,7 @@
       <workItem from="1676715744121" duration="97000" />
       <workItem from="1676920717575" duration="5384000" />
       <workItem from="1677006734332" duration="6386000" />
-      <workItem from="1677087820399" duration="4417000" />
+      <workItem from="1677087820399" duration="5221000" />
     </task>
     <servers />
   </component>
@@ -582,7 +582,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$040____.coverage" NAME="040_제곱이 아닌 수 찾기 Coverage Results" MODIFIED="1670742377410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/07_정수론" />
     <SUITE FILE_PATH="coverage/study_algorithm$_______py_.coverage" NAME="[기초-리스트] 바둑알 십자 뒤집기(py) Coverage Results" MODIFIED="1663076109087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/좆진호" />
     <SUITE FILE_PATH="coverage/study_algorithm$3_____.coverage" NAME="3_성적이 낮은 순서로 학생 출력하기 Coverage Results" MODIFIED="1668055538923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
-    <SUITE FILE_PATH="coverage/study_algorithm$__.coverage" NAME="숫자 카드 나누기 Coverage Results" MODIFIED="1677092837430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv2" />
+    <SUITE FILE_PATH="coverage/study_algorithm$__.coverage" NAME="숫자 카드 나누기 Coverage Results" MODIFIED="1677093044924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv2" />
     <SUITE FILE_PATH="coverage/study_algorithm$q27______.coverage" NAME="q27_정렬된 배열에서 특정 수의 개수 구하기 Coverage Results" MODIFIED="1668342031283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/binary_search" />
     <SUITE FILE_PATH="coverage/study_algorithm$077__2.coverage" NAME="077_이항계수 구하기2 Coverage Results" MODIFIED="1675497204020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합" />
     <SUITE FILE_PATH="coverage/study_algorithm$046____.coverage" NAME="046_특정 거리의 도시 찾기 Coverage Results" MODIFIED="1671692614305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/그래프" />

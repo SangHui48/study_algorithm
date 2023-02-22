@@ -1,3 +1,4 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/135807
 from math import gcd
 from functools import reduce
 def solution(arrayA, arrayB):
