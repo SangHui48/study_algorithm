@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/lv2/혼자 놀기의 달인.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/lv2/연속 부분 수열 합의 개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/lv2/연속 부분 수열 합의 개수.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\sanghui\Desktop\toyproject\study_algorithm\코드업" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.연속 부분 수열 합의 개수">
+  <component name="RunManager" selected="Python.혼자 놀기의 달인">
     <configuration name="연속 부분 수열 합의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +67,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/lv2/연속 부분 수열 합의 개수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="혼자 놀기의 달인" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/lv2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/lv2/혼자 놀기의 달인.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,6 +363,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.혼자 놀기의 달인" />
         <item itemvalue="Python.연속 부분 수열 합의 개수" />
         <item itemvalue="Python.부대복귀" />
         <item itemvalue="Python.디펜스 게임" />
@@ -464,7 +487,7 @@
       <workItem from="1677006734332" duration="6386000" />
       <workItem from="1677087820399" duration="9894000" />
       <workItem from="1677146753602" duration="4653000" />
-      <workItem from="1677168662057" duration="2753000" />
+      <workItem from="1677168662057" duration="3782000" />
     </task>
     <servers />
   </component>
