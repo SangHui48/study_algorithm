@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/lv2/택배상자.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/lv2/롤케이크 자르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/lv2/롤케이크 자르기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -442,7 +442,7 @@
       <workItem from="1676920717575" duration="5384000" />
       <workItem from="1677006734332" duration="6386000" />
       <workItem from="1677087820399" duration="9894000" />
-      <workItem from="1677146753602" duration="2167000" />
+      <workItem from="1677146753602" duration="4653000" />
     </task>
     <servers />
   </component>
