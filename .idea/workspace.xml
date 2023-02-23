@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/lv2/혼자 놀기의 달인.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/lv2/할인 행사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="C:\Users\sanghui\Desktop\toyproject\study_algorithm\코드업" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.혼자 놀기의 달인">
+  <component name="RunManager" selected="Python.할인 행사">
     <configuration name="연속 부분 수열 합의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="우박 수열 정적분" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="할인 행사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,7 +330,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/lv2/우박 수열 정적분.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/lv2/할인 행사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,6 +363,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.할인 행사" />
         <item itemvalue="Python.혼자 놀기의 달인" />
         <item itemvalue="Python.연속 부분 수열 합의 개수" />
         <item itemvalue="Python.부대복귀" />
@@ -487,7 +488,7 @@
       <workItem from="1677006734332" duration="6386000" />
       <workItem from="1677087820399" duration="9894000" />
       <workItem from="1677146753602" duration="4653000" />
-      <workItem from="1677168662057" duration="3782000" />
+      <workItem from="1677168662057" duration="5186000" />
     </task>
     <servers />
   </component>
@@ -634,7 +635,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$_______py_.coverage" NAME="[기초-리스트] 바둑알 십자 뒤집기(py) Coverage Results" MODIFIED="1663076109087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/좆진호" />
     <SUITE FILE_PATH="coverage/study_algorithm$_2_py_.coverage" NAME="수 나열하기2(py) Coverage Results" MODIFIED="1662466084048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$3_____.coverage" NAME="3_성적이 낮은 순서로 학생 출력하기 Coverage Results" MODIFIED="1668055538923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/sorting" />
-    <SUITE FILE_PATH="coverage/study_algorithm$__.coverage" NAME="우박 수열 정적분 Coverage Results" MODIFIED="1677101446821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv2" />
+    <SUITE FILE_PATH="coverage/study_algorithm$__.coverage" NAME="혼자 놀기의 달인 Coverage Results" MODIFIED="1677180858201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv2" />
     <SUITE FILE_PATH="coverage/study_algorithm$q27______.coverage" NAME="q27_정렬된 배열에서 특정 수의 개수 구하기 Coverage Results" MODIFIED="1668342031283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/binary_search" />
     <SUITE FILE_PATH="coverage/study_algorithm$046____.coverage" NAME="046_특정 거리의 도시 찾기 Coverage Results" MODIFIED="1671692614305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/그래프" />
     <SUITE FILE_PATH="coverage/study_algorithm$077__2.coverage" NAME="077_이항계수 구하기2 Coverage Results" MODIFIED="1675497204020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합" />
@@ -670,7 +671,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$082_.coverage" NAME="082_사전찾기 Coverage Results" MODIFIED="1676376494413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합" />
     <SUITE FILE_PATH="coverage/study_algorithm$____10___16_1___py_.coverage" NAME="[기초-출력변환] 10진 정수 입력받아 16진수로 출력하기1(설명)(py) Coverage Results" MODIFIED="1661689813936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$ex8_4___.coverage" NAME="ex8-4_피보나치(바텀업) Coverage Results" MODIFIED="1668395526108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming" />
-    <SUITE FILE_PATH="coverage/study_algorithm$_.coverage" NAME="롤케이크 자르기 Coverage Results" MODIFIED="1677149244808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv2" />
+    <SUITE FILE_PATH="coverage/study_algorithm$_.coverage" NAME="할인 행사 Coverage Results" MODIFIED="1677181964749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv2" />
     <SUITE FILE_PATH="coverage/study_algorithm$_____2____2___py_.coverage" NAME="[기초-입출력] 문자 2개 입력받아 순서 바꿔 출력하기2(설명)(py) Coverage Results" MODIFIED="1661615771127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$_2____py_.coverage" NAME="주사위 2개 던지기(설명)(py) Coverage Results" MODIFIED="1662393287400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$___py_.coverage" NAME="바둑알 십자 뒤집기(py) Coverage Results" MODIFIED="1662475019089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
