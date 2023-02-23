@@ -2,7 +2,6 @@
 def solution(elements):
     n = len(elements)
     elements = elements + elements
-    print(elements)
     answer = set(elements)
     answer.add(sum(elements))
     for i in range(2, n):

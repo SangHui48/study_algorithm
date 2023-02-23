@@ -464,7 +464,7 @@
       <workItem from="1677006734332" duration="6386000" />
       <workItem from="1677087820399" duration="9894000" />
       <workItem from="1677146753602" duration="4653000" />
-      <workItem from="1677168662057" duration="1914000" />
+      <workItem from="1677168662057" duration="2753000" />
     </task>
     <servers />
   </component>
@@ -702,7 +702,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$q15____.coverage" NAME="q15_특정 거리의 도시 찾기 Coverage Results" MODIFIED="1667619109233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/bfs&amp;dfs" />
     <SUITE FILE_PATH="coverage/study_algorithm$032____.coverage" NAME="032_동전 개수의 최솟값 구하기 Coverage Results" MODIFIED="1670338953148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/06_그리디" />
     <SUITE FILE_PATH="coverage/study_algorithm$___2_py_.coverage" NAME="이상한 출석 번호 부르기2(py) Coverage Results" MODIFIED="1662473829123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
-    <SUITE FILE_PATH="coverage/study_algorithm$____.coverage" NAME="연속 부분 수열 합의 개수 Coverage Results" MODIFIED="1677170710734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv2" />
+    <SUITE FILE_PATH="coverage/study_algorithm$____.coverage" NAME="연속 부분 수열 합의 개수 Coverage Results" MODIFIED="1677171357917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv2" />
     <SUITE FILE_PATH="coverage/study_algorithm$076__1.coverage" NAME="076_이항계수 구하기1 Coverage Results" MODIFIED="1675496636602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/10_조합" />
     <SUITE FILE_PATH="coverage/study_algorithm$____02___py_.coverage" NAME="[기초-출력] 출력하기02(설명)(py) Coverage Results" MODIFIED="1661614267650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
     <SUITE FILE_PATH="coverage/study_algorithm$____________py_.coverage" NAME="[기초-논리연산] 둘 다 참일 경우만 참 출력하기(설명)(py) Coverage Results" MODIFIED="1661913319559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
