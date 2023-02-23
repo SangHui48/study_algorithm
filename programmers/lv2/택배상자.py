@@ -1,3 +1,4 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/131704
 from collections import deque
 def solution(order):
     answer = 0
