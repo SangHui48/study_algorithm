@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/lv1/1차_비밀지도.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/lv1/콜라문제.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -411,7 +409,7 @@
       <workItem from="1677585820897" duration="1000" />
       <workItem from="1677666052863" duration="4899000" />
       <workItem from="1677756908613" duration="1826000" />
-      <workItem from="1677779292184" duration="1192000" />
+      <workItem from="1677779292184" duration="3365000" />
     </task>
     <servers />
   </component>
