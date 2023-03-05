@@ -1,4 +1,5 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/160586
+# https://ryong9rrr.github.io/pgm-Lv1-%EB%8C%80%EC%B6%A9-%EB%A7%8C%EB%93%A0-%EC%9E%90%ED%8C%90/
 # test_case 14번부터 실패
 def solution(keymap, targets):
     answer = []
