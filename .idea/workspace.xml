@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/skill_check/lv1/2023_3_9_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/skill_check/lv1/2023_3_9_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/skill_check/lv2/2023_3_9_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/lv1/수박수박수박수박수박수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -370,7 +368,7 @@
       <workItem from="1677779292184" duration="4590000" />
       <workItem from="1678038664333" duration="3695000" />
       <workItem from="1678209347573" duration="2110000" />
-      <workItem from="1678298734758" duration="4031000" />
+      <workItem from="1678298734758" duration="4643000" />
     </task>
     <servers />
   </component>
@@ -470,16 +468,6 @@
           <url>file://$PROJECT_DIR$/programmers/lv2/미로탈출.py</url>
           <line>34</line>
           <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/skill_check/lv2/2023_3_9_2.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/programmers/skill_check/lv2/2023_3_9_2.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
