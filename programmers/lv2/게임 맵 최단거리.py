@@ -1,7 +1,6 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/1844
 from collections import deque
 
-
 def solution(maps):
     n = len(maps)
     m = len(maps[0])
