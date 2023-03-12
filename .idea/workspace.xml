@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="" />
+    <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers/lv2/게임 맵 최단거리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
       <recent name="C:\Users\sanghui\Desktop\toyproject\study_algorithm\코드업" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2023_3_9_2 (1)">
+  <component name="RunManager" selected="Python.게임 맵 최단거리">
     <configuration name="개인정보 수집 유효기간" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,28 +67,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/lv1/개인정보 수집 유효기간.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="키패드 누르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/lv1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/lv1/키패드 누르기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="크기가 작은 부분 문자열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="게임 맵 최단거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/lv1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers/lv2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/lv1/크기가 작은 부분 문자열.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers/lv2/게임 맵 최단거리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.게임 맵 최단거리" />
         <item itemvalue="Python.2023_3_9_2 (1)" />
         <item itemvalue="Python.2023_3_9_2" />
         <item itemvalue="Python.개인정보 수집 유효기간" />
         <item itemvalue="Python.089_연속된 정수의 합 구하기" />
-        <item itemvalue="Python.크기가 작은 부분 문자열" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +347,7 @@
       <workItem from="1678038664333" duration="3695000" />
       <workItem from="1678209347573" duration="2110000" />
       <workItem from="1678298734758" duration="4992000" />
-      <workItem from="1678644021310" duration="1187000" />
+      <workItem from="1678644021310" duration="2223000" />
     </task>
     <servers />
   </component>
@@ -467,6 +448,21 @@
           <line>34</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/lv2/게임 맵 최단거리.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/lv2/게임 맵 최단거리.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/programmers/lv2/게임 맵 최단거리.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -544,7 +540,7 @@
     <SUITE FILE_PATH="coverage/study_algorithm$035__.coverage" NAME="035_회의실 배정하기 Coverage Results" MODIFIED="1670426450999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/06_그리디" />
     <SUITE FILE_PATH="coverage/study_algorithm$062__.coverage" NAME="062_경로 찾기 Coverage Results" MODIFIED="1672713253014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/08_그래프" />
     <SUITE FILE_PATH="coverage/study_algorithm$002__.coverage" NAME="002_평균 구하기 Coverage Results" MODIFIED="1668175996487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/03_자료구조" />
-    <SUITE FILE_PATH="coverage/study_algorithm$__.coverage" NAME="개인정보 수집 유효기간 Coverage Results" MODIFIED="1678300210445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv1" />
+    <SUITE FILE_PATH="coverage/study_algorithm$__.coverage" NAME="게임 맵 최단거리 Coverage Results" MODIFIED="1678646527542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv2" />
     <SUITE FILE_PATH="coverage/study_algorithm$q32__.coverage" NAME="q32_정수 삼각형 Coverage Results" MODIFIED="1668657959491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이것이 코딩테스트다/dinamic_programming" />
     <SUITE FILE_PATH="coverage/study_algorithm$057___.coverage" NAME="057_최소 비용 구하기 Coverage Results" MODIFIED="1672296734333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/do it! 알고리즘 코딩 테스트/그래프" />
     <SUITE FILE_PATH="coverage/study_algorithm$3_____py_.coverage" NAME="3의 배수는 통과(설명)(py) Coverage Results" MODIFIED="1662465953495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/코드업" />
