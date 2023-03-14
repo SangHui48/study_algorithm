@@ -38,6 +38,22 @@ class Node:
                 return None, None
         else:
             return self, parent
+    
+    def insert(self, key, data):
+        if key < self.key:
+            pass
+        elif key > self.key:
+            pass
+        else:
+            raise KeyError('...')
+    
+    def count(self):
+        count = 0
+        if self.left:
+            count += 1
+        if self.right:
+            count += 1
+        return count
 
 class BinSearchTree:
     def __init__(self):
@@ -66,3 +82,9 @@ class BinSearchTree:
             return self.root.lookup(key)
         else:
             return None, None
+        
+    def insert(self, key, data):
+        if self.root:
+            self.root.insert(key, data)
+        else:
+            self.root = Node(key, data)
