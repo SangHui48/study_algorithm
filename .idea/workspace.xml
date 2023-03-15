@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc237543-583c-4e53-b2ef-2b3b3638fdbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/lv1/가장 큰 수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/lv2/큰 수 만들기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/lv2/큰 수 만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/lv2/큰 수 만들기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -328,7 +327,7 @@
       <workItem from="1678298734758" duration="4992000" />
       <workItem from="1678644021310" duration="2863000" />
       <workItem from="1678796362001" duration="15000" />
-      <workItem from="1678847549842" duration="4610000" />
+      <workItem from="1678847549842" duration="7640000" />
     </task>
     <servers />
   </component>
