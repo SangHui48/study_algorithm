@@ -1,8 +1,18 @@
-def solution(L, x):
-    idx = 0
-    for i in range(len(L)):
-        if x > L[i]:
-            idx += 1
-    L.insert(idx, x)
-    return L
-print(solution([20, 37, 58, 72, 91], 65))
+class ModelHandler(BaseHandler):
+    def __init__(self):
+        pass
+    
+    def initialize(self, **kwargs):
+        pass
+    
+    def preprocess(self, data):
+        pass
+    
+    def inference(self, data):
+        pass
+    
+    def postprocess(self, data):
+        pass
+    
+    def handle(self, data):
+        pass
