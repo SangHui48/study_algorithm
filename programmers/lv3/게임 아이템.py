@@ -11,7 +11,7 @@ def solution(healths, items):
         while items:
             debuff, buff, index = items[0]
             if health - debuff < 100:
-                break
+                breakq
             items.popleft()
             heapq.heappush(heap, (-buff, index))
         if heap:
