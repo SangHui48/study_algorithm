@@ -8,3 +8,7 @@
 #             return sorted([x for x in range(start, start-num, -1)])
 #         else:
 #             start -= 1
+
+def solution(num, total):
+    a1 = (total - ((num*(num-1)//2))) // num
+    return [i for i in range(a1, a1+num)]
